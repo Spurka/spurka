@@ -1,0 +1,5 @@
+
+import antigravity
+
+print("konec")
+
